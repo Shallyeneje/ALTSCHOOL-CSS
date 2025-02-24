@@ -24,9 +24,9 @@ body {
 
 .label {
   position: absolute;
-  top: -20px; /* Moves the label up */
+  top: -20px; 
   left: 50%;
-  transform: translateX(-50%); /* Centers the label */
+  transform: translateX(-50%); 
   background: #ff0095;
   color: black;
   font-size: 35px;
